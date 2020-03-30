@@ -1,4 +1,4 @@
-Standalone [code-server] client.
+Standalone [code-server] client. Download and run before (https://github.com/cdr/code-server)
 (notes: disabled CommandOrControl+W shortcut to disable closing and it allows to set up close tab shortcut in vsc code-server)
 
 Requires Node.JS and Electron installed to Build release.
