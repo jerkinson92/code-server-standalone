@@ -8,10 +8,10 @@ Requires Node.JS and Electron installed to Build release.
 ~ use `electron-forge publish` to build standalone application.
 
 INSTALLATION
-0) change url to your http code-server (src/index.js)
-1) `npm i`
-2) `electron-forge publish`
-3) use build from 'out' directory
+1) change url to your http code-server (src/index.js)
+2) `npm i`
+3) `electron-forge publish`
+4) use build from 'out' directory
 
 
 = only MacOS tested.
